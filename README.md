@@ -1,6 +1,6 @@
 # Python Is Plugin
 
-> A plugin that allows you to set the Python version you want to rely on (but you may not be able to start without it)
+> Let you can depend a you want python version
 
 
 
