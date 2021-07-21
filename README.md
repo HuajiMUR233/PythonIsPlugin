@@ -1,4 +1,4 @@
-# This plug-in is no longer needed in MCDR 2.x, it already has similar functions.
+# For MCDR 1.x
 ---
 # Python Is Plugin
 
